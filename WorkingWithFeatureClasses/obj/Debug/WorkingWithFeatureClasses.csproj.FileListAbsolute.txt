@@ -1,0 +1,12 @@
+D:\OneDrive - UGM 365\SEMESTER 2\PGD\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\WorkingWithFeatureClasses.dll
+D:\OneDrive - UGM 365\SEMESTER 2\PGD\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\WorkingWithFeatureClasses.pdb
+D:\OneDrive - UGM 365\SEMESTER 2\PGD\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\ESRI.ArcGIS.Editor.dll
+D:\OneDrive - UGM 365\SEMESTER 2\PGD\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\ESRI.ArcGIS.Editor.xml
+D:\OneDrive - UGM 365\SEMESTER 2\PGD\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.csproj.AssemblyReference.cache
+D:\OneDrive - UGM 365\SEMESTER 2\PGD\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.frmFeatureClasses.resources
+D:\OneDrive - UGM 365\SEMESTER 2\PGD\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.csproj.GenerateResource.cache
+D:\OneDrive - UGM 365\SEMESTER 2\PGD\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.csproj.CoreCompileInputs.cache
+D:\OneDrive - UGM 365\SEMESTER 2\PGD\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.csproj.CopyComplete
+D:\OneDrive - UGM 365\SEMESTER 2\PGD\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.dll
+D:\OneDrive - UGM 365\SEMESTER 2\PGD\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.pdb
+D:\OneDrive - UGM 365\SEMESTER 2\PGD\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\WorkingWithFeatureClasses.esriAddIn
